@@ -1,5 +1,6 @@
 # CV-Parser
 Need to install:
+
   pip install pymongo
   pip install PyPDF2==1.26.0
   pip install pymongo[srv]
